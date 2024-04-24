@@ -1,6 +1,9 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Patryk and I'm student of Applied Computer Science living in Torun, Poland. Every day I try to broaden my horizons in technologies that I enjoy.
+Full-Stack Developer at [CodeAgency.pl](https://codeagency.pl/);<br>
+
+- ⚙️ I use daily: `.ts`, `.tsx`, `.html`, `.css`, `.svg`
+- 🌍 I'm mostly active within the **React Community**
 
 <br />
 <br />
