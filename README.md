@@ -9,6 +9,3 @@ My name is Patryk and I'm student of Applied Computer Science living in Torun, P
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/patryk-sztuczka#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/patryk-sztuczka#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/patryksztuczka#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/patryksztuczka#gh-dark-mode-only)
