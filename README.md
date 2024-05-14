@@ -1,6 +1,10 @@
 ## Hello, I'm Patryk! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Full-Stack Developer at [CodeAgency.pl](https://codeagency.pl/)<br>
+
+#### 🚀 I can print "Hello World" in 7 languages
+
+##### Strongly focused at:
 <p float="left">
   <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logoColor=white&logo=typescript" />
   <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logoColor=61DAFB&logo=react" />
@@ -14,7 +18,7 @@ Full-Stack Developer at [CodeAgency.pl](https://codeagency.pl/)<br>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-#### Connect with me:
+##### Connect with me:
 <a href="https://www.linkedin.com/in/patryk-sztuczka">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
